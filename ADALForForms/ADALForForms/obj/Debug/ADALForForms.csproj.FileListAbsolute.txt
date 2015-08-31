@@ -1,0 +1,12 @@
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\bin\Debug\ADALForForms.dll
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\bin\Debug\ADALForForms.pdb
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\bin\Debug\Xamarin.Forms.Core.dll
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\bin\Debug\Xamarin.Forms.Core.xml
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\obj\Debug\ADALForForms.csprojResolveAssemblyReference.cache
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\obj\Debug\HomePage.xaml.g.cs
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\obj\Debug\ADALForForms.dll
+D:\Downloads\Compressed\ADALForForms-master\ADALForForms-master\ADALForForms\ADALForForms\obj\Debug\ADALForForms.pdb

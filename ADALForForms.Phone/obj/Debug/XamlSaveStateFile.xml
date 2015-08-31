@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="d:\projects\adalforforms-master\adalforforms\adalforforms\bin\debug\adalforforms.dll" HashGuid="774f3ab8-dda3-0f85-5e27-4110c64c54e1" />
+    <ReferenceAssembly PathName="d:\projects\adalforforms-master\packages\microsoft.identitymodel.clients.activedirectory.3.5.207081303-alpha\lib\wpa\microsoft.identitymodel.clients.activedirectory.dll" HashGuid="3a310d14-cfbc-17f0-416a-154619b066c9" />
+    <ReferenceAssembly PathName="d:\projects\adalforforms-master\packages\microsoft.identitymodel.clients.activedirectory.3.5.207081303-alpha\lib\wpa\microsoft.identitymodel.clients.activedirectory.platform.dll" HashGuid="ace71a94-9671-1d8f-b541-1cb3cd81b111" />
+    <ReferenceAssembly PathName="d:\projects\adalforforms-master\packages\xamarin.forms.1.4.3.6376\lib\wpa81\xamarin.forms.core.dll" HashGuid="e936e2d3-d969-8bb1-af0c-579f78ec6711" />
+    <ReferenceAssembly PathName="d:\projects\adalforforms-master\packages\xamarin.forms.1.4.3.6376\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="1297509e-890d-4f5f-4636-ecd56e3ce2c0" />
+    <ReferenceAssembly PathName="d:\projects\adalforforms-master\packages\xamarin.forms.1.4.3.6376\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="473cdfc0-8521-0cff-1ed8-702af89dce70" />
+    <ReferenceAssembly PathName="d:\projects\adalforforms-master\packages\xamarin.forms.1.4.3.6376\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="7b95da84-4dae-c34f-6e5c-e32ac81dd1c9" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

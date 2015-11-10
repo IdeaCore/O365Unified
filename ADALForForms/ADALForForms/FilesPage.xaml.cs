@@ -24,10 +24,10 @@ namespace ADALForForms
 
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", App.AuthenticationResult.AccessToken);
-            var meData = await client.GetStringAsync("https://graph.microsoft.com/beta/me/files");
+            var meData = await client.GetStringAsync("https://graph.microsoft.com/beta/me/drive/root/children");
             var data = JsonConvert.DeserializeObject<FilesModel>(meData);
             var files = from file in data.Value
-                where file.Type.ToLower() == "file"
+                //where file.Type.ToLower() == "file"
                 select file.Name;
             this.FileList.ItemsSource = files.ToList();
         }
